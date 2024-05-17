@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">My Country App Zero</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Nombre">Nombre:</string>
+    <string name="NombreDesarrollador">Miguel Angel Mendoza Madrigal</string>
+    <string name="NC">NC:</string>
+    <string name="numeroDeControl">L20290998</string>
+    <string name="NombrePais">Nombre de Pais</string>
+    <string name="Nc">Numero de Control:</string>
+    <string name="countryItemTvCountryNameExample">Mexico</string>
+    <string name="countryItemTvCountryCapitalLabel">Capital:</string>
+    <string name="countryItemTvCountryCapitalExample">Ciudad de Mexico</string>
+    <string name="countryItemTvCountryPopulationLabel">Poblacion:</string>
+    <string name="countryItemTvCountryPopulationExample">120,000,000</string>
+    <string name="mainNavMiContinente">Continentes</string>
+    <string name="mainNavMiBuscar">Buscar Pais</string>
+    <string name="mainNavMiPerfil">Dev Info</string>
+</resources>
